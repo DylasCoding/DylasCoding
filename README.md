@@ -20,7 +20,7 @@
 
 ## 🛠️ Tech Stack
 
-- 💻 Languages: `C#`, `JavaScript`,`Java`, `C#` 
+- 💻 Languages: `C#`, `JavaScript`,`Java`, `C++` 
 - 🎮 Game Dev: `Unity`, `Unity UI Toolkit`, `Scriptable Objects`  
 - 🔧 Tools: `Git`, `VS Code`, `Figma`
 - ☁️ Backend (for game saving & data): `Firebase`, `PlayFab`, `Unity Cloud`
