@@ -1,24 +1,55 @@
-  <div align="center">
-<div id="header">
-<img src="https://64.media.tumblr.com/420e03c1a57bcd8536eb81fc4a7de782/tumblr_p1fpw866dk1wkwuqso1_1280.gif" width="500">
-</div>
-<div id="badges">
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn Badge">
-</a>
-<a href="https://www.instagram.com/_vwn.hiusz/">
-  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Youtube Badge">
-</a>
-<a href="mailto:hieusih@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&amp;logo=gmail&amp;logoColor=red" alt="Youtube Badge">
-</a>
-<a href="https://leetcode.com/aqchandra15/">
-  <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&amp;logo=leetcode&amp;logoColor=yellow" alt="Youtube Badge">
-</a>
-</div>
-<h3 id="hi-there">Hi there 👋🎉</h3>
-<p>My name is <strong>Van Hieu</strong> and welcome to my profile.</p>
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500">
-<h3 id="bar_chart-github-stats">:bar_chart: GitHub stats</h3>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DylasCoding&amp;show_icons=true&amp;theme=dark" alt="Top Languages Used"></p>
-</div>
+<h1 align="center">Hi 👋, I'm Tran Van Hieu</h1>
+<h3 align="center">A passionate Game Developer using Unity 🎮 | Software Engineering Student 💻</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;I+build+2D+and+3D+games+with+Unity;Passionate+about+game+mechanics+%26+game+design!" alt="Typing SVG" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎮 I’m currently developing games using **Unity (C#)**  
+- 💡 Interested in game design, gameplay systems, and indie game development  
+- 👨‍🎓 I’m studying **Software Engineering** at VKU  
+- 🌱 Currently exploring: **Shader Graph, Scriptable Objects, multiplayer with Netcode**  
+- 📫 Contact me: **hieusih@gmail.com**  
+- ⚡ Fun fact: I love analyzing game mechanics from classic RPGs and farming games!
+
+---
+
+## 🛠️ Tech Stack
+
+- 💻 Languages: `C#`, `JavaScript`,`Java`, `C#` 
+- 🎮 Game Dev: `Unity`, `Unity UI Toolkit`, `Scriptable Objects`  
+- 🔧 Tools: `Git`, `VS Code`, `Figma`
+- ☁️ Backend (for game saving & data): `Firebase`, `PlayFab`, `Unity Cloud`
+
+---
+
+## 🚀 Projects
+
+- 🔹 **World Shards** – A Turn-base Role Playing Game (T-RPG)  
+  `Enemy AI`, `Combat System`, `Scene Management`
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=tokyonight&hide_border=false" width="45%" />
+</p>
+
+---
+
+## 🔗 Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vwnhius/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="30" />
+  </a>
+  <a href="mailto:hieusih@gmail.com">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="30" />
+  </a>
+</p>
