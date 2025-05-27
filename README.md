@@ -20,9 +20,10 @@
 
 ## 🛠️ Tech Stack
 
-- 💻 Languages: `C#`, `JavaScript`,`Java`, `C++` 
-- 🎮 Game Dev: `Unity`, `Unity UI Toolkit`, `Scriptable Objects`  
-- 🔧 Tools: `Git`, `VS Code`, `Figma`
+- 💻 Languages: `C#`, `JavaScript`, `Java`, `C++` , `Kotlin`
+- 🎮 Game Dev: `Unity`, `Unity UI Toolkit`, `Scriptable Objects`
+- 🌐 Web Dev: `Express`, `React`, `Vite`, `TailWin`
+- 🔧 Tools: `Git`, `VS Code`, `Figma`, `Intellij Idea`, `Web Storm`, `Notion`, `Android Studio`
 - ☁️ Backend (for game saving & data): `Firebase`, `PlayFab`, `Unity Cloud`
 
 ---
