@@ -24,7 +24,7 @@
 - 🎮 Game Dev: `Unity`, `Unity UI Toolkit`, `Scriptable Objects`
 - 🌐 Web Dev: `Express`, `React`, `Vite`, `TailWin`
 - 🔧 Tools: `Git`, `VS Code`, `Figma`, `Intellij Idea`, `Web Storm`, `Notion`, `Android Studio`
-- ☁️ Backend (for game saving & data): `Firebase`, `PlayFab`, `Unity Cloud`
+- ☁️ Backend: `Firebase`, `Express.js`, `Unity Cloud`, 'SQL Server'
 
 ---
 
