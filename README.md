@@ -13,7 +13,7 @@
 - 💡 Interested in game design, gameplay systems, and indie game development  
 - 👨‍🎓 I’m studying **Software Engineering** at VKU  
 - 🌱 Currently exploring: **Shader Graph, Scriptable Objects, multiplayer with Netcode**  
-- 📫 Contact me: **hieusih@gmail.com**  
+- 📫 Contact me: **tranvanhieu.dev@gmail.com**  
 - ⚡ Fun fact: I love analyzing game mechanics from classic RPGs and farming games!
 
 ---
@@ -50,7 +50,7 @@
   <a href="https://www.linkedin.com/in/vwnhius/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="30" />
   </a>
-  <a href="mailto:hieusih@gmail.com">
+  <a href="mailto:tranvanhieu.dev@gmail.com">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="30" />
   </a>
 </p>
