@@ -30,7 +30,7 @@
 
 ## Projects
 
-- 🔹 **World Shards** – A Turn-base Role Playing Game (T-RPG)  
+- **World Shards** – A Turn-base Role Playing Game (T-RPG)  
   `Enemy AI`, `Combat System`, `Scene Management`
 
 ---
