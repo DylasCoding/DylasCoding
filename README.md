@@ -7,28 +7,28 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎮 I’m currently developing games using **Unity (C#)**  
-- 💡 Interested in game design, gameplay systems, and indie game development  
-- 👨‍🎓 I’m studying **Software Engineering** at VKU  
-- 🌱 Currently exploring: **Shader Graph, Scriptable Objects, multiplayer with Netcode**  
-- 📫 Contact me: **tranvanhieu.dev@gmail.com**  
-- ⚡ Fun fact: I love analyzing game mechanics from classic RPGs and farming games!
-
----
-
-## 🛠️ Tech Stack
-
-- 💻 Languages: `C#`, `JavaScript`, `Java`, `C++` , `Kotlin`
-- 🎮 Game Dev: `Unity`, `Unity UI Toolkit`, `Scriptable Objects`
-- 🌐 Web Dev: `Express`, `React`, `Vite`, `TailWin`
-- 🔧 Tools: `Git`, `VS Code`, `Figma`, `Intellij Idea`, `Web Storm`, `Notion`, `Android Studio`
-- ☁️ Backend: `Firebase`, `Express.js`, `Unity Cloud`, `SQL Server`
+- I’m currently developing games using **Unity (C#)**  
+- Interested in game design, gameplay systems, and indie game development  
+- I’m studying **Software Engineering** at VKU  
+- Currently exploring: **Shader Graph, Scriptable Objects, multiplayer with Netcode**  
+- Contact me: **tranvanhieu.dev@gmail.com**  
+- Fun fact: I love analyzing game mechanics from classic RPGs and farming games!
 
 ---
 
-## 🚀 Projects
+## Tech Stack
+
+- Languages: `C#`, `JavaScript`, `Java`, `C++` , `Kotlin`
+- Game Dev: `Unity`, `Unity UI Toolkit`, `Scriptable Objects`
+- Web Dev: `Express`, `React`, `Vite`, `TailWin`
+- Tools: `Git`, `VS Code`, `Figma`, `Intellij Idea`, `Web Storm`, `Notion`, `Android Studio`
+- Backend: `Firebase`, `Express.js`, `Unity Cloud`, `SQL Server`
+
+---
+
+## Projects
 
 - 🔹 **World Shards** – A Turn-base Role Playing Game (T-RPG)  
   `Enemy AI`, `Combat System`, `Scene Management`
