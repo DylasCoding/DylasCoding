@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tran Van Hieu</h1>
-<h3 align="center">A passionate Game Developer using Unity 🎮 | Software Engineering Student 💻</h3>
+<h3 align="center">A passionate Game Developer using Unity | Software Engineering Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub!;I+build+2D+and+3D+games+with+Unity;Passionate+about+game+mechanics+%26+game+design!" alt="Typing SVG" />
