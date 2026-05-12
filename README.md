@@ -30,10 +30,23 @@
 
 ## Projects
 
-- **World Shards** – A Turn-base Role Playing Game (T-RPG)  
-  `Enemy AI`, `Combat System`, `Scene Management`
+<a href="https://github.com/DylasCoding/Multiplayer2D">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DylasCoding&repo=Multiplayer2D&theme=radical" />
+</a>
+<a href="https://github.com/DylasCoding/WorldShards">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DylasCoding&repo=WorldShards&theme=merko" />
+</a>
 
----
+<a href="https://github.com/DylasCoding/Farming-Game">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DylasCoding&repo=Farming-Game&theme=gruvbox" />
+</a>
+<a href="https://github.com/DylasCoding/SkyboundAces">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DylasCoding&repo=SkyboundAces&theme=dark" />
+</a>
 
 ## 📈 GitHub Stats
 
