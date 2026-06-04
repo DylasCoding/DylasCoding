@@ -30,23 +30,9 @@
 
 ## Projects
 
-<a href="https://github.com/DylasCoding/Multiplayer2D">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DylasCoding&repo=Multiplayer2D&theme=radical" />
-</a>
-<a href="https://github.com/DylasCoding/WorldShards">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DylasCoding&repo=WorldShards&theme=merko" />
-</a>
+[![Multiplayer2D](https://github-card-api-rust.vercel.app/api/card?user=DylasCoding&repo=Multiplayer2D&tags=Unity,Netcode,C%23&theme=light)](https://github.com/DylasCoding/Multiplayer2D)
 
-<a href="https://github.com/DylasCoding/Farming-Game">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DylasCoding&repo=Farming-Game&theme=gruvbox" />
-</a>
-<a href="https://github.com/DylasCoding/SkyboundAces">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DylasCoding&repo=SkyboundAces&theme=dark" />
-</a>
+[![WorldShards](https://github-card-api-rust.vercel.app/api/card?user=DylasCoding&repo=WorldShards&tags=Unity,C%23&theme=light)](https://github.com/DylasCoding/WorldShards)
 
 ## 📈 GitHub Stats
 
