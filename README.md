@@ -30,9 +30,14 @@
 
 ## Projects 
 
-[![Multiplayer2D](https://github-card-api-rust.vercel.app/api/card?user=DylasCoding&repo=Multiplayer2D&theme=forest&tags=Unity%2CC%23%2CNetCode&accentFrom=ef4444&accentTo=b91c1c)](https://github.com/DylasCoding/Multiplayer2D)
-
-[![WorldShards](https://github-card-api-rust.vercel.app/api/card?user=DylasCoding&repo=WorldShards&theme=ocean&tags=Unity%2CC%23&accentFrom=06b6d4&accentTo=0e7490)](https://github.com/DylasCoding/WorldShards)
+<a href="https://github.com/DylasCoding/Multiplayer2D">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-card-api-rust.vercel.app/api/card?user=DylasCoding&repo=Multiplayer2D&theme=forest&tags=Unity%2CC%23%2CNetCode&accentFrom=ef4444&accentTo=b91c1c" />
+</a>    
+<a href="https://github.com/DylasCoding/WorldShards">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-card-api-rust.vercel.app/api/card?user=DylasCoding&repo=WorldShards&theme=ocean&tags=Unity%2CC%23&accentFrom=06b6d4&accentTo=0e7490" />
+</a>
 
 ## 📈 GitHub Stats
 
