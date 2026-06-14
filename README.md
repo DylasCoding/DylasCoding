@@ -30,9 +30,9 @@
 
 ## Projects 
 
-[![Multiplayer2D](https://github-card-api-rust.vercel.app/api/card?user=DylasCoding&repo=Multiplayer2D&tags=Unity,Netcode,C%23&theme=light)](https://github.com/DylasCoding/Multiplayer2D)
+[![Multiplayer2D](https://github-card-api-rust.vercel.app/api/card?user=DylasCoding&repo=Multiplayer2D&theme=forest&tags=Unity%2CC%23%2CNetCode&accentFrom=ef4444&accentTo=b91c1c)](https://github.com/DylasCoding/Multiplayer2D)
 
-[![WorldShards](https://github-card-api-rust.vercel.app/api/card?user=DylasCoding&repo=WorldShards&tags=Unity,C%23&theme=light)](https://github.com/DylasCoding/WorldShards)
+[![WorldShards](https://github-card-api-rust.vercel.app/api/card?user=DylasCoding&repo=WorldShards&theme=ocean&tags=Unity%2CC%23&accentFrom=06b6d4&accentTo=0e7490)](https://github.com/DylasCoding/WorldShards)
 
 ## 📈 GitHub Stats
 
