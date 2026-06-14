@@ -36,7 +36,7 @@
 </a>    
 <a href="https://github.com/DylasCoding/WorldShards">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-card-api-rust.vercel.app/api/card?user=DylasCoding&repo=WorldShards&theme=ocean&tags=Unity%2CC%23&accentFrom=06b6d4&accentTo=0e7490" />
+  <img align="center" src="https://github-card-api-rust.vercel.app/api/card?user=DylasCoding&repo=WorldShards&theme=volcano&tags=Unity%2CC%23&accentFrom=0ad507&accentTo=0e7490" />
 </a>
 
 ## 📈 GitHub Stats
